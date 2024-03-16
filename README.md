@@ -1,3 +1,5 @@
+This project is forked from RSSHub. 
+
 <p align="center">
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
